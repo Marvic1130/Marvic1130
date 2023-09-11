@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <br>
 </div>
-
+<hr/>
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&theme=github_dark_dimmed)
+  ![Marvic1130's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&theme=github_dark_dimmed) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=compact&theme=github_dark_dimmed)
 </div>
