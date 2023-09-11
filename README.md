@@ -4,18 +4,29 @@
 </div>
 
 <div align="center">
-  🌙 I prefer about... 🌙
-  <br/>
-  <br/>
+  
+### 🌙 I prefer about... 🌙
   <a href="https://www.python.org" target="_blank"><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/></a>
   <a href="https://opencv.org" target="_blank"><img alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white"/></a>
   <a href="https://www.tensorflow.org/?hl=ko" target="_blank"><img alt="TensorFlow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></a>
   <a href="https://www.jetbrains.com/ko-kr/pycharm/download/" target="_blank"><img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=white"/></a>
   <a href="https://numpy.org" target="_blank"><img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=NumPy&logoColor=white"/></a>
   </br>
-  <a href="https://pandas.pydata.org" target="_blank"><img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white"/></a>
+  <a href="https://pandas.pydata.org" target="_blank"><img alt="Pandas" src ="https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=Pandas&logoColor=white"/></a>
   <a href="https://www.arduino.cc" target="_blank"><img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00878F.svg?style=flat&logo=Arduino&logoColor=white"/></a>
   <a href="https://www.espressif.com" target="_blank"><img alt="Espressif" src ="https://img.shields.io/badge/Espressif-E7352C.svg?style=flat&logo=Espressif&logoColor=white"/></a>
-  <a href="https://www.raspberrypi.com" target="_blank"><img alt="Raspberry Pi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?style=flat&logo=raspberrypi&logoColor=white"/></a>
+  <a href="https://www.raspberrypi.com" target="_blank"><img alt="Raspberry Pi" src ="https://img.shields.io/badge/Raspberry Pi4-A22846.svg?style=flat&logo=raspberrypi&logoColor=white"/></a>
+  <a href="https://nodered.org" target="_blank"><img alt="Node-RED" src ="https://img.shields.io/badge/Node-RED-8F0000.svg?style=flat&logo=Node-RED&logoColor=white"/></a>
+
+ ### 📋 Cowork Tools
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <br>
+</div>
+
+<div align="center">
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&theme=github_dark_dimmed)
 </div>
