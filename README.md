@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=Marvic1130&animation=fadeIn&fontSize=60&section=header&color=3776AB&fontColor=FFFFFF77&height=200&)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Marvic1130&animation=fadeIn&fontSize=60&section=header&color=3776AB&fontColor=B6C8DC&height=200&)
 </div>
 
 <div align="center">
@@ -28,5 +28,5 @@
 <hr/>
 <div align="center">
   
-  ![Marvic1130's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&theme=github_dark_dimmed) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=compact&theme=github_dark_dimmed)
+  ![Marvic1130's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&theme=default) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=compact&theme=default)
 </div>
