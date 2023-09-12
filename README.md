@@ -28,5 +28,5 @@
 <hr/>
 <div align="center">
   
-  ![Marvic1130's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&theme=default) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=compact&theme=default)
+  ![Marvic1130's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&theme=default) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=donut&theme=default)
 </div>
