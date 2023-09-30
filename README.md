@@ -1,6 +1,9 @@
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMarvic1130&count_bg=%235494F0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Marvic1130&animation=fadeIn&fontSize=60&section=header&color=3776AB&fontColor=B6C8DC&height=200&)
+  
 </div>
 
 <div align="center">
@@ -29,4 +32,12 @@
 <div align="center">
   
   ![Marvic1130's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&theme=default) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=donut&theme=default)
+
 </div>
+
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=marvic1130)](https://solved.ac/marvic1130/)
+
+</div>
+
