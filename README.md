@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=Marvic1130&animation=fadeIn&fontSize=60&section=header&color=438DF1&fontColor=FFFFFFAA&height=200&)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Marvic1130&animation=fadeIn&fontSize=60&section=header&color=438DF1&fontColor=FFFFFFCC&height=200&)
   
 </div>
 
