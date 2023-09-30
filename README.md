@@ -33,8 +33,8 @@
   <br>
   <br>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=donut&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&theme=default">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=donut&theme=default" height="190px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&theme=default" height="190px">
 
 </div>
 
