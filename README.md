@@ -8,8 +8,6 @@
 
 ```python
 
-import datetime
-
 def myProfile(year: int):
     Yeseong = {
         'name': 'Yeseong Kang',
@@ -28,20 +26,6 @@ def myProfile(year: int):
             'Listening to music'
         ]
     }
-    if year < 2021:
-        Yeseong['major'] = 'Electronic Software(2020)'
-
-    if year < 2023:
-        Yeseong['Laboratory'] = 'Hansei University, Vision 303'
-
-    return Yeseong
-
-if __name__ == '__main__':
-    now_year = datetime.datetime.now().year
-    profile = myProfile(now_year)
-    for key, val in profile.items():
-        print(f"{key}: {val}")
-    print("Thank you for reading my profile.")
 
 ```
 
