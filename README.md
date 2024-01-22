@@ -19,7 +19,7 @@ def myProfile(year: int):
         'University': 'Hansei University',
         'Univ major': 'Computer Engineering(2021 ~ 2024.2)',
         'Graduate school': 'Yonsei Graduate school of Information',
-        'major track': 'AI-IoT Service(2024.2 ~ )',
+        'major track': 'AI-IoT Service(2024.3 ~ )',
         'Laboratory': 'Yonsei Graduate school DAILY LAB',
         'Hobby': [
             'Ride a motorcycle',
