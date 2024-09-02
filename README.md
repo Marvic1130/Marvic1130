@@ -12,14 +12,13 @@ def myProfile(year: int):
     Yeseong = {
         'name': 'Yeseong Kang',
         'birthYear': 2000,
-        'phone': '010-6663-8380',
         'email': 'marvic1130@gmail.com',
         'country': 'Korea',
         'city': 'Seoul',
         'University': 'Hansei University',
-        'Univ major': 'Computer Engineering(2021 ~ 2024.2)',
+        'B.S.': 'Computer Science and Engineering(2021 ~ 2024.2)',
         'Graduate school': 'Yonsei Graduate school of Information',
-        'major track': 'AI-IoT Service(2024.3 ~ )',
+        'major': 'AI-IoT Service(2024.3 ~ )',
         'Laboratory': 'Yonsei Graduate school DAILY LAB',
         'Hobby': [
             'Ride a motorcycle',
