@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=40&pause=1000&color=0081FB&width=503&height=70&lines=Hi!+I+am+Yeseong+Kang" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=30&pause=1000&color=0081FB&repeat=false&width=377&lines=Hi!+I+am+Yeseong+Kang" alt="Typing SVG" /></a>
 
   <h2> About Me</h2>
 
@@ -66,9 +66,9 @@
   <img src="https://streak-stats.demolab.com?user=Marvic1130&background=00000000&ring=0081FB&sideNums=999999&dates=999999&currStreakNum=999999&sideLabels=999999" alt="GitHub Streak" height="157px" />
   <a href="https://solved.ac/marvic1130"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=marvic1130" height="157px" /></a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=donut&hide=ShaderLab,PureBasic&bg_color=00000000&text_color=888888F&title_color=0081FB" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=donut&hide=ShaderLab,PureBasic&bg_color=00000000&text_color=999999&title_color=0081FB" height="180px">
   <img src="https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=999999&title_color=0081FB&icon_color=006EE9" height="180px">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marvic1130&bg_color=1C2B3300&color=999999&line=0081FB&point=006EE9&area=true&area_color=0081FB&title_color=0081FB" width="727px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marvic1130&bg_color=1C2B3300&color=999999&line=0081FB&point=006EE9&area=true&area_color=0081FB&title_color=0081FB&hide_title=true" width="727px">
 
 </div>
