@@ -1,16 +1,15 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMarvic1130&count_bg=%230081FB&title_bg=%231C2B33&icon=&icon_color=%230081FB&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMarvic1130&count_bg=%230081FB&title_bg=%231C2B33&icon=&icon_color=%230969DA&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=30&pause=1000&color=0081FB&repeat=false&width=377&lines=Hi!+I+am+Yeseong+Kang" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=30&pause=1000&color=0969DA&repeat=false&width=378&lines=Hi!+I+am+Yeseong+Kang" alt="Typing SVG" /></a>
 
   <h2> About Me</h2>
 
   <p> 
   Studying AIoT & TinyML & Edge AI <br/>
   Master student in Yonsei Graduate school of Information
-  
   </p>
 
 </div>
@@ -63,12 +62,12 @@
 
   <h3> 📈 Dash Board 📈 </h3>
 
-  <img src="https://streak-stats.demolab.com?user=Marvic1130&background=00000000&ring=0081FB&sideNums=999999&dates=999999&currStreakNum=999999&sideLabels=999999" alt="GitHub Streak" height="157px" />
+  <img src="https://streak-stats.demolab.com?user=Marvic1130&background=00000000&ring=0969DA&&sideNums=9198a1&dates=9198a1&currStreakNum=9198a1&sideLabels=9198a1" alt="GitHub Streak" height="157px" />
   <a href="https://solved.ac/marvic1130"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=marvic1130" height="157px" /></a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=donut&hide=ShaderLab,PureBasic&bg_color=00000000&text_color=999999&title_color=0081FB" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=999999&title_color=0081FB&icon_color=006EE9" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=donut&hide=ShaderLab,PureBasic&bg_color=00000000&text_color=9198a1&title_color=0969DA" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=9198a1&title_color=0969DA&icon_color=0969DA" height="180px">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marvic1130&bg_color=1C2B3300&color=999999&line=0081FB&point=006EE9&area=true&area_color=0081FB&title_color=0081FB&hide_title=true" width="727px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marvic1130&bg_color=1C2B3300&color=9198a1&line=0969DA&point=0969DA&area=true&area_color=0969DA&title_color=0969DA&hide_title=true" width="727px">
 
 </div>
