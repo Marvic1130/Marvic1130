@@ -68,6 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic1130&layout=donut&hide=ShaderLab,PureBasic&bg_color=00000000&text_color=9198a1&title_color=0969DA" height="180px">
   <img src="https://github-readme-stats.vercel.app/api?username=Marvic1130&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=9198a1&title_color=0969DA&icon_color=0969DA" height="180px">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marvic1130&bg_color=1C2B3300&color=9198a1&line=0969DA&point=0969DA&area=true&area_color=0969DA&title_color=0969DA&hide_title=true" width="727px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marvic1130&bg_color=1C2B3300&color=9198a1&line=0969DA&point=0969DA&area=true&area_color=0969DA&title_color=0969DA&hide_title=true&radius=10" width="727px">
 
 </div>
