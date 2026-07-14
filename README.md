@@ -9,7 +9,7 @@
 
   <p> 
   Studying AIoT & TinyML & Edge AI <br/>
-  Master student in Yonsei Graduate school of Information
+  Ph.D student in Yonsei Graduate school of Information
   </p>
 
 </div>
